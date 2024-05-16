@@ -1,5 +1,5 @@
 @app
-aws-lite-InvalidSignatureException
+arc-aws-lite-InvalidSignatureException
 
 @http
 get /
