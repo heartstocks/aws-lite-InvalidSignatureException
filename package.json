@@ -7,8 +7,5 @@
   },
   "devDependencies": {
     "@architect/architect": "^11.0.12"
-  },
-  "dependencies": {
-    "@architect/functions": "^8.1.6"
   }
 }

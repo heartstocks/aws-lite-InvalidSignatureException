@@ -2,4 +2,4 @@
 arc-aws-lite-InvalidSignatureException
 
 @http
-get /
+get /aws-lite
