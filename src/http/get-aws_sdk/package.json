@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@architect/functions": "^7.0.0"
+  },
+  "devDependencies": {
+    "@aws-sdk/client-ssm": "^3.577.0"
+  }
+}
